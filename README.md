@@ -48,7 +48,7 @@ class Program
 ```
 
 ## Exemple d'Intégration
-Pour voir un exemple d'intégration de la bibliothèque ADB Command SDK dans un projet Visual Studio en C-Sharp, consultez le dossier `example` dans ce dépôt.
+Pour voir un exemple d'intégration de la bibliothèque ADB Command SDK dans un projet Visual Studio en C-Sharp, consultez le projet  [https://github.com/elouafidev/MobileTools](https://github.com/elouafidev/MobileTools).
 
 ## Contact
 Pour toute question ou suggestion concernant la bibliothèque ADB Command SDK (C-Sharp), vous pouvez me contacter par email : [support@elouafi.dev](support@elouafi.dev)
