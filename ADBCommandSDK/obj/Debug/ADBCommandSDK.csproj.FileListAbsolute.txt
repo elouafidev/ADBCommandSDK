@@ -1,0 +1,14 @@
+D:\#Projects\project MobileTools\MobileTools\ADBCommandSDK\MobileLibrary\obj\Debug\ADBCommandSDK.csproj.AssemblyReference.cache
+D:\#Projects\project MobileTools\MobileTools\ADBCommandSDK\MobileLibrary\obj\Debug\ADBCommandSDK.csproj.CoreCompileInputs.cache
+D:\#Projects\project MobileTools\MobileTools\ADBCommandSDK\MobileLibrary\obj\Debug\MobileLibrary.dll
+D:\#Projects\project MobileTools\MobileTools\ADBCommandSDK\MobileLibrary\obj\Debug\MobileLibrary.pdb
+D:\#Projects\project MobileTools\MobileTools\ADBCommandSDK\MobileLibrary\bin\Debug\MobileLibrary.dll
+D:\#Projects\project MobileTools\MobileTools\ADBCommandSDK\MobileLibrary\bin\Debug\MobileLibrary.pdb
+D:\#Projects\project MobileTools\MobileTools\ADBCommandSDK\ADBCommandSDK\obj\Debug\ADBCommandSDK.csproj.AssemblyReference.cache
+D:\#Projects\project MobileTools\MobileTools\ADBCommandSDK\ADBCommandSDK\obj\Debug\ADBCommandSDK.csproj.CoreCompileInputs.cache
+D:\#Projects\project MobileTools\MobileTools\ADBCommandSDK\ADBCommandSDK\bin\Debug\ADBCommandSDK.dll
+D:\#Projects\project MobileTools\MobileTools\ADBCommandSDK\ADBCommandSDK\bin\Debug\ADBCommandSDK.pdb
+D:\#Projects\project MobileTools\MobileTools\ADBCommandSDK\ADBCommandSDK\obj\Debug\ADBCommandSDK.Properties.Resources.resources
+D:\#Projects\project MobileTools\MobileTools\ADBCommandSDK\ADBCommandSDK\obj\Debug\ADBCommandSDK.csproj.GenerateResource.cache
+D:\#Projects\project MobileTools\MobileTools\ADBCommandSDK\ADBCommandSDK\obj\Debug\ADBCommandSDK.dll
+D:\#Projects\project MobileTools\MobileTools\ADBCommandSDK\ADBCommandSDK\obj\Debug\ADBCommandSDK.pdb

@@ -1,0 +1,10 @@
+C:\Users\myPC\Documents\Visual Studio 2010\Projects\ADBTools\MobileLibrary\bin\Debug\MobileLibrary.dll
+C:\Users\myPC\Documents\Visual Studio 2010\Projects\ADBTools\MobileLibrary\bin\Debug\MobileLibrary.pdb
+C:\Users\myPC\Documents\Visual Studio 2010\Projects\ADBTools\MobileLibrary\obj\Debug\MobileLibrary.dll
+C:\Users\myPC\Documents\Visual Studio 2010\Projects\ADBTools\MobileLibrary\obj\Debug\MobileLibrary.pdb
+C:\Users\myPC\Documents\Visual Studio 2010\Projects\ADBTools\MobileLibrary\obj\Debug\MobileLibrary.csprojResolveAssemblyReference.cache
+C:\Users\-\Documents\project\ADBTools\MobileLibrary\bin\Debug\MobileLibrary.dll
+C:\Users\-\Documents\project\ADBTools\MobileLibrary\bin\Debug\MobileLibrary.pdb
+C:\Users\-\Documents\project\ADBTools\MobileLibrary\obj\Debug\MobileLibrary.csprojResolveAssemblyReference.cache
+C:\Users\-\Documents\project\ADBTools\MobileLibrary\obj\Debug\MobileLibrary.dll
+C:\Users\-\Documents\project\ADBTools\MobileLibrary\obj\Debug\MobileLibrary.pdb
